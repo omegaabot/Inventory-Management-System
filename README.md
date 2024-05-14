@@ -59,6 +59,10 @@ The project utilizes a relational database with the following schema:
 +-------------+-------------+-------------------+----------+----------------+----------------+
 ```
 
+### Relational Schema:
+
+![Relational Schema](https://raw.githubusercontent.com/omegaabot/Inventory-Management-System/main/RELATIONAL%20SCHEMA.jpg)
+
 ## Getting Started
 
 To get started with the Inventory Management System, follow these steps:
@@ -76,5 +80,3 @@ Contributions to this project are welcome! If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
